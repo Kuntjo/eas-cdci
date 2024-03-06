@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "575824836674",
+    "project_id": "testfb-ab123",
+    "storage_bucket": "testfb-ab123.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575824836674:android:51db0ccca99e34ae98d5db",
+        "android_client_info": {
+          "package_name": "com.company.lytics"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOzIhNcaJbS2ktGRi1hBR4oEiepJUf5FI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575824836674:android:1fecc2e4a059c6cf98d5db",
+        "android_client_info": {
+          "package_name": "com.malingindisguise.belajar_cicd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOzIhNcaJbS2ktGRi1hBR4oEiepJUf5FI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
